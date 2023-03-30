@@ -1,0 +1,9 @@
+resources:
+https://www.codecademy.com/resources/blog/best-programming-languages-for-math/
+https://www.python.org/
+https://www.w3schools.com/python/default.asp
+https://replit.com/~
+https://www.w3.org/Math/
+https://mathoverflow.net/
+https://stackexchange.com/
+https://en.wikipedia.org/wiki/Category:Numerical_programming_languages
