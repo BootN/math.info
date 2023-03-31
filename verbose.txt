@@ -1,4 +1,6 @@
 resources:
+https://www.wolframalpha.com/
+
 https://www.codecademy.com/resources/blog/best-programming-languages-for-math/
 https://www.python.org/
 https://www.w3schools.com/python/default.asp
